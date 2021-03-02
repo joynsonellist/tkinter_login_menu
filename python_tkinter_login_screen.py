@@ -3,8 +3,8 @@ import tkinter
 login_window = tkinter.Tk()
 login_window.title("Login")
 # ======================================== #
-usernames = ["Username"]
-passwords = ["Password"]
+usernames = ["Username"] "EDIT"
+passwords = ["Password"] "EDIT"
 # ======================================== #
 
 
